@@ -1,0 +1,15 @@
+@import url(./variables.css);
+
+@import url(./base.css);
+
+@import url(./Sections_css/header.css);
+
+@import url(./Sections_css/1_Section-hero.css);
+
+@import url(./Sections_css/2_Section-About.css);
+
+@import url(./Sections_css/3_Section-PORTFOLIO.css);
+
+@import url(./Sections_css/4_Section-CONTACTS.css);
+
+@import url(./Sections_css/footer.css);
